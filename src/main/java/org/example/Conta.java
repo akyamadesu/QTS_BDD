@@ -76,7 +76,4 @@ public class Conta {
         // Write code here that turns the phrase above into concrete actions
         System.out.println("Saldo: " + int1 + " reais");
     }
-
-
-
 }
