@@ -22,8 +22,8 @@ Implementação dos métodos sugeridos na 'Conta.java' destinado ao cliente espe
 Execução do teste após a inserção do código na 'Conta.java':
 ![img_3.png](img_3.png)
 
-### Parte 6 - Runner
-A inserção do Runner serve para que haja a execução do Cucumber com Junit
+### Parte 6 - Runner:
+A inserção do Runner serve para que haja a execução do Cucumber com Junit.
 ![img_7.png](img_7.png)
 
 
